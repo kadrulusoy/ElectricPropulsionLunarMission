@@ -138,7 +138,7 @@ public class ElectricalProplulsionMoonMission {
                             thrustVector,"mainEngine");
 
 
-            final ManeuverTriggers triggers = new Tr;
+            //final ManeuverTriggers triggers = new Tr;
 
             if (initialDate.isBeforeOrEqualTo(phaseOneEnd)) {
                 /*
